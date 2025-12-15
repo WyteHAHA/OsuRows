@@ -1,5 +1,5 @@
 # NOTES
-<p>Don't download the optimised build directly before 0.7.5 releases for it since the beatmap system is still on the old and very bad version!!</p>
+<p>playing on 250FPS is recommended but slightly broken as of 0.7.7. If you want to stick with the old physics use 60FPS until it is resolved</p>
 
 # OsuRows! Public Github
 [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/w9UAv4BeVA?style=flat)](https://discord.gg/w9UAv4BeVA)
