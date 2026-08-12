@@ -1,5 +1,5 @@
 # NOTES
-<p>playing on 250FPS is recommended but slightly broken as of 0.7.7. If you want to stick with the old physics use 60FPS until it is resolved</p>
+<p>The game is currently transitioning from 60 FPS to 250 FPS, if you find any bugs please report it by pressing [P] anywhere in the game</p>
 
 # OsuRows! Public Github
 [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/w9UAv4BeVA?style=flat)](https://discord.gg/w9UAv4BeVA)
